@@ -1,0 +1,15 @@
+.Titulo {
+    color:#6959CD;
+    text-align:center;
+}
+
+.paragrafo {
+    background:#4876FF; 
+    margin-top: 150px; padding: 50px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.img-center {
+    text-align: center;
+}
